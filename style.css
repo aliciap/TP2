@@ -1,12 +1,12 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #FFC0CB;
 }
 
 #header
 {
-	background: #ccc;
+	background: #FFE4E1;
 	padding: 20px;
 }
 
@@ -16,19 +16,21 @@
 {
 	float: left;
 	width: 100%;
-	background: #333;
+	background: #696969;
 }
 
 #navigation ul
 {
 	margin: 0;
 	padding: 0;
+    background: #696969;
 }
 
 #navigation ul li
 {
 	list-style-type: none;
 	display: inline;
+	background: #696969;
 }
 
 #navigation li a
@@ -36,12 +38,12 @@
 	display: block;
 	float: left;
 	padding: 5px 10px;
-	color: #fff;
+	color: #696969;;
 	text-decoration: none;
-	border-right: 1px solid #fff;
+	border-right: 1px solid #696969;
 }
 
-#navigation li a:hover { background: #383; }
+#navigation li a:hover { background: #696969; }
 
 #edito
 {
@@ -50,11 +52,11 @@
 	margin: 20px;
 	-webkit-border-radius: 18px;
 	border-radius: 18px;
-	-webkit-box-shadow: 0px 0px 6px #000000;
-	box-shadow: 0px 0px 6px #000000;
-	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
+	-webkit-box-shadow: 0px 0px 6px #696969;;
+	box-shadow: 0px 0px 6px #696969;;
+	background-image: -webkit-gradient(linear, left top, right top, from(#696969), to(#696969));
 	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
-	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
+	background-image: linear-gradient(left, #696969, #696969);
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
@@ -62,7 +64,7 @@
 
 #edito h2
 {
-	color: #000;
+	color: #696969;
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
@@ -75,10 +77,10 @@
 	margin: 20px;
 	-webkit-border-radius: 18px;
 	border-radius: 18px;
-	-webkit-box-shadow: 0px 0px 6px #000000;
-	box-shadow: 0px 0px 6px #000000;
-	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
-	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
+	-webkit-box-shadow: 0px 0px 6px #696969;;
+	box-shadow: 0px 0px 6px #696969;;
+	background-image: -webkit-gradient(linear, left top, right top, from(#696969), to(#696969));
+	background-image: -webkit-linear-gradient(left, #696969, #696969);
 	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
@@ -88,8 +90,8 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
-	text-align: right;
+	background: #696969;
+	text-align: black;
 	padding: 20px;
 	height: 1%;
 }
